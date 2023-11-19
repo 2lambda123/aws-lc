@@ -23,7 +23,7 @@ setuptools.setup(
         "aws-cdk-lib==2.74.0",
         "constructs==10.1.314",
         # PyYAML is a YAML parser and emitter for Python. Used to read build_spec.yaml.
-        "pyyaml==5.3.1",
+        "pyyaml==5.4",
         # A formatter for Python code.
         "yapf==0.30.0",
         # Introduced by benchmark framework.
